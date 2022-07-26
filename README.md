@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lordhj
-- 👀 I’m interested in solving some real life problems and bringing a postive change in the world 😁.
-- 🌱 I’m currently learning Machine Learning and Python Automation
-- 💞️ I’m looking to collaborate on some innovative projects and building a corporation(I am serious)
+- 👀 I’m interested in making loads of $$$$$$$$$ 😁.
+- 🌱 I’m currently learning Machine Learning, Automation
+- 💞️ I’m looking to collaborate on some innovative projects and building a corporation(when I said corporation I am serious)
 - 📫 How to reach me https://www.linkedin.com/in/harshitjoshi450 ...
 
 <!---
