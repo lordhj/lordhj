@@ -18,3 +18,4 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lordhj&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" /></a>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lordhj&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="lordhj" /></p>
 
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=lordhj&show_icons=true&locale=en&theme=chartreuse-dark" alt="lordhj" width="410" /></p>
