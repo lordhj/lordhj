@@ -16,5 +16,5 @@ You can click the Preview link to take a look at your changes.
   <br/>
   <h2 align="center"> my current activity </h2>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lordhj&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" /></a>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lordhj&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="lordhj" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lordhj&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="lordhj" /></p>
 
