@@ -19,4 +19,4 @@ You can click the Preview link to take a look at your changes.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lordhj&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="lordhj" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=lordhj&show_icons=true&locale=en&theme=chartreuse-dark" alt="lordhj" width="410" /></p>
-<p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lordhj&theme=vue" alt="lordhj" /></p>
+<p><img align="middle" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lordhj&theme=vue" alt="lordhj" /></p>
