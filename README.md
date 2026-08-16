@@ -1,168 +1,272 @@
-<!-- ======================= HEADER ======================= -->
+<!--
+██████╗  ██████╗ ██████╗ ███████╗
+██╔══██╗██╔═══██╗██╔══██╗██╔════╝
+██████╔╝██║   ██║██████╔╝█████╗
+██╔══██╗██║   ██║██╔══██╗██╔══╝
+██║  ██║╚██████╔╝██║  ██║███████╗
+╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=HARSHIT%20JOSHI&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20BACKEND%20ENGINEER&descAlignY=60&descSize=20" />
-</p>
+        H A R S H I T   J O S H I
+-->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=I+LOVE+TO+CODE+%E2%9A%A1;AI+%7C+BACKEND+%7C+SYSTEMS;Building+things+that+actually+work.;Python+is+my+weapon+of+choice+%F0%9F%90%8D" />
-</p>
+<div align="center">
 
----
+<!-- MATRIX / CYBER HEADER -->
 
-## 💫 About Me
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:001a00,60:003300,100:00ff41&height=250&section=header&text=HARSHIT%20JOSHI&fontSize=58&fontColor=00FF41&fontAlignY=40&desc=AI%20%2F%20BACKEND%20ENGINEER&descAlignY=62&descSize=20&descColor=00FF41&animation=twinkling"/>
 
-```text
-01010100 01001000 01000101 00100000 01000011 01001111 01000100 01000101
-```
+<br>
 
-### 👨‍💻 AI / Backend Engineer
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2200&pause=700&color=00FF41&center=true&vCenter=true&width=800&height=70&lines=%24+sudo+./harshit.sh;%24+INITIALIZING+AI+SYSTEMS...;%24+PYTHON+%7C+LLMs+%7C+RAG+%7C+MCP;%24+BACKEND+%7C+SYSTEMS+%7C+CLOUD;%24+0101010+I+LOVE+TO+CODE+0101010" />
 
-I build things with **Python, AI, APIs, and distributed systems**.
+<br>
 
-```python
-while True:
-    learn()
-    build()
-    break_things()
-    fix_them()
-    repeat()
-```
+<img src="https://komarev.com/ghpvc/?username=lordhj&style=for-the-badge&color=00ff41&label=SYSTEM+VISITS&labelColor=000000"/>
 
-### 🧠 Currently Into
-
-* 🤖 LLMs & Generative AI
-* 🔎 RAG
-* 🧩 MCP
-* 🕸️ Multi-Agent Systems
-* ⚡ Async & Distributed Systems
-* 🏗️ Backend Architecture
-* ☁️ Cloud & Infrastructure
-* 🐍 Python
+</div>
 
 ---
 
-# 🧰 Tech Stack
+<div align="center">
 
-## 🐍 Languages
+### `0101010 // I LOVE TO CODE // 0101010`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
-</p>
+<br>
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,docker,aws,azure,postgres,mongodb,redis,rabbitmq,linux,git,github&perline=7&theme=dark" />
 
----
-
-## 🤖 AI / Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge)
-![MCP](https://img.shields.io/badge/MCP-FF6B35?style=for-the-badge)
-![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-FFD21E?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+</div>
 
 ---
 
-## ⚙️ Backend
+# `> ./about_me`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,django,flask" />
-</p>
+<div align="center">
 
-![REST](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge\&logo=celery\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge\&logo=rabbitmq\&logoColor=white)
+<table>
+<tr>
+<td align="center" width="33%">
 
----
+### 🧠
 
-## 🗄️ Databases
+**AI**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis" />
-</p>
+LLMs
+RAG
+MCP
+Multi-Agent
 
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge)
+</td>
 
----
+<td align="center" width="33%">
 
-## ☁️ Cloud / DevOps
+### ⚡
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,azure,linux,nginx,git,github,githubactions" />
-</p>
+**BACKEND**
 
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge\&logo=digitalocean\&logoColor=white)
+Python
+FastAPI
+Django
+Microservices
 
----
+</td>
 
-# 🧩 Other Tools
+<td align="center" width="33%">
 
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge\&logo=pytest\&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge\&logo=powershell\&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
+### ☁️
 
----
+**INFRA**
 
-# 📊 GitHub Stats
+Docker
+AWS
+Azure
+Distributed Systems
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=lordhj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordhj&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lordhj&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
----
+<br>
 
-# 🏆 GitHub Trophies
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lordhj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212749726-20c3f8a6-4a28-4e0c-9c8c-4b6e0b7e6c3b.gif" width="400">
+
+</div>
 
 ---
 
-# 🔥 Contribution Graph
+# `> ./tech_matrix`
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=lordhj&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
+## 🐍 `PYTHON / BACKEND`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,flask&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/MICROSERVICES-000000?style=for-the-badge&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/CELERY-000000?style=for-the-badge&logo=celery&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/REDIS-000000?style=for-the-badge&logo=redis&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/RABBITMQ-000000?style=for-the-badge&logo=rabbitmq&logoColor=00FF41" />
+
+</div>
 
 ---
 
-# 🌐 Connect With Me
+## 🤖 `AI / MACHINE INTELLIGENCE`
 
-<p align="center">
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/OPENAI-000000?style=for-the-badge&logo=openai&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/GEMINI-000000?style=for-the-badge&logo=google&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/LANGCHAIN-000000?style=for-the-badge&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logoColor=00FF41" />
+
+<br>
+
+<img src="https://img.shields.io/badge/SENTENCE--TRANSFORMERS-000000?style=for-the-badge&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/OPENCV-000000?style=for-the-badge&logo=opencv&logoColor=00FF41" />
+
+</div>
+
+---
+
+## 🗄️ `DATABASE / STORAGE`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/PINECONE-000000?style=for-the-badge&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/CHROMADB-000000?style=for-the-badge&logoColor=00FF41" />
+
+</div>
+
+---
+
+## ☁️ `CLOUD / DEVOPS`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,aws,azure,digitalocean,linux,nginx,githubactions,git,github&perline=5&theme=dark" />
+
+</div>
+
+---
+
+# `> ./system_status`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=900&color=00FF41&center=true&vCenter=true&width=650&height=45&lines=%5BSYSTEM%5D+ALL+SYSTEMS+OPERATIONAL;%5BAI%5D+NEURAL+ENGINE+ONLINE;%5BBACKEND%5D+SERVICES+RUNNING;%5BCLOUD%5D+INFRASTRUCTURE+CONNECTED;%5BSTATUS%5D+BUILDING+SOMETHING+COOL..." />
+
+<br>
+
+<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="500">
+
+</div>
+
+---
+
+# `> ./github_stats`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=lordhj&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41&icon_color=00FF41&ring_color=00FF41&include_all_commits=true&count_private=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordhj&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41&icon_color=00FF41&langs_count=8" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=lordhj&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=00FF41&sideNums=00FF41&dates=008F2D" />
+
+</div>
+
+---
+
+# `> ./achievements`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LEETCODE-400%2B%20PROBLEMS-000000?style=for-the-badge&logo=leetcode&logoColor=00FF41" />
+
+  
+
+<img src="https://img.shields.io/badge/HACKATHON-NATIONAL%20FINALIST-000000?style=for-the-badge&logo=hackthebox&logoColor=00FF41" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=lordhj&theme=matrix&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
+
+</div>
+
+---
+
+# `> ./contributions`
+
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=lordhj&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" />
+
+</div>
+
+---
+
+# `> ./connect`
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/harshitjoshi450/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" />
 </a>
+
+   
 
 <a href="https://github.com/lordhj">
-  <img src="https://img.shields.io/badge/GitHub-lordhj-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF41" />
 </a>
 
-</p>
+</div>
 
----
+<br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Code.+Learn.+Build.+Repeat.+%F0%9F%9A%80;0101010+I+LOVE+TO+CODE+0101010" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2800&pause=1000&color=00FF41&center=true&vCenter=true&width=700&height=40&lines=%24+exit;%24+keep_building%28%29;%24+keep_learning%28%29;%24+keep_shipping%28%29;%24+sudo+rm+-rf+%2Fbugs" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,40:003300,75:001a00,100:000000&height=150&section=footer&animation=twinkling"/>
+
+</div>
+
+<!--
+=============================================================
+                    END OF TRANSMISSION
+=============================================================
+-->
